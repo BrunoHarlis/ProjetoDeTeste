@@ -1,0 +1,2 @@
+E:\MyProjects\ProjetoDeTeste\Debug\ProjetoDeTeste.exe
+E:\MyProjects\ProjetoDeTeste\Debug\ProjetoDeTeste.pdb
